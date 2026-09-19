@@ -16,6 +16,7 @@ jobs:
         run: |
           keytool -genkey -v -keystore keystore.jks -alias key -keyalg RSA -keysize 2048 -validity 10000 -storepass password123 -keypass password123 -dname "CN=Saar Player, OU=App, O=Aniket, C=IN"
           echo '{ "android": { "keystore": { "keystorePath": "keystore.jks", "keystorePassword": "password123", "keyAlias": "key", "keyPassword": "password123" } } }' > credentials.json
+          git add keystore.jks credentials.json
       - name: Install Dependencies
         run: npm install
       - name: Build Android APK
