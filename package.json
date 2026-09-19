@@ -1,1 +1,12 @@
+{
+  "name": "desi-music-player",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "*",
+    "expo-av": "*",
+    "react": "*",
+    "react-native": "*"
+  }
+}
 
