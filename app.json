@@ -1,7 +1,16 @@
 {
   "expo": {
     "name": "Desi Music",
-    "slug": "desi-music"
+    "slug": "desi-music",
+    "android": {
+      "package": "com.aniket.desimusic"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "90099288-e259-419a-afc5-cefc1227986e"
+      }
+    }
   }
 }
+
 
