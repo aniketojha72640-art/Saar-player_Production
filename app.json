@@ -2,6 +2,7 @@
   "expo": {
     "name": "Saar Player",
     "slug": "saar-player-p3nooeqkmok5-8ecfdahx",
+    "owner": "by-ojhas",
     "android": {
       "package": "com.aniket.saarplayer"
     },
