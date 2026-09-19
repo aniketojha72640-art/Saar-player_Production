@@ -1,9 +1,9 @@
 {
   "expo": {
-    "name": "Desi Music",
+    "name": "Saar Player",
     "slug": "saar-player-p3noceqkmok5-8ecfdahx",
     "android": {
-      "package": "com.aniket.desimusic"
+      "package": "com.aniket.saarplayer"
     },
     "extra": {
       "eas": {
@@ -12,4 +12,3 @@
     }
   }
 }
-
