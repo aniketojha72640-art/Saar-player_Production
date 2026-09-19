@@ -1,12 +1,15 @@
 {
-  "name": "desi-music-player",
+  "name": "saar-player",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "dependencies": {
-    "expo": "*",
-    "expo-av": "*",
-    "react": "*",
-    "react-native": "*"
-  }
+    "expo": "~51.0.28",
+    "expo-av": "~14.0.7",
+    "react": "18.2.0",
+    "react-native": "0.74.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
 }
-
