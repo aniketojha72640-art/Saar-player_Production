@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Desi Music",
-    "slug": "desi-music",
+    "slug": "saar-player",
     "android": {
       "package": "com.aniket.desimusic"
     },
@@ -12,5 +12,3 @@
     }
   }
 }
-
-
