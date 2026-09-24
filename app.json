@@ -1,15 +1,18 @@
 {
-  "expo": {
-    "name": "Saar Player",
-    "slug": "saar-player-p3nooeqkmok5-8ecfdahx",
-    "owner": "by-ojhas",
-    "android": {
-      "package": "com.aniket.saarplayer"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "90099288-e259-419a-afc5-cefc1227986e"
-      }
-    }
-  }
+"expo": {
+"name": "Saar Player",
+"slug": "saar-player-p3nooeqkmok5-8ecfdahx",
+"owner": "by-ojhas",
+"splash": {
+"backgroundColor": "#121212"
+},
+"android": {
+"package": "com.aniket.saarplayer"
+},
+"extra": {
+"eas": {
+"projectId": "90099288-e259-419a-afc5-cefc1227986e"
+}
+}
+}
 }
